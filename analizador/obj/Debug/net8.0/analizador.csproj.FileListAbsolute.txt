@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\bin\Debug\net8.0\analizador.exe
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\bin\Debug\net8.0\analizador.deps.json
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\bin\Debug\net8.0\analizador.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\bin\Debug\net8.0\analizador.dll
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\bin\Debug\net8.0\analizador.pdb
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\analizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\analizador.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\analizador.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\analizador.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\analizador.dll
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\refint\analizador.dll
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\analizador.pdb
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\analizador.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\convertidor\analizador\obj\Debug\net8.0\ref\analizador.dll

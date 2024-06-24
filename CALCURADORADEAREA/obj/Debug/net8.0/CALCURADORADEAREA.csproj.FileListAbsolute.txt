@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\bin\Debug\net8.0\CALCURADORADEAREA.exe
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\bin\Debug\net8.0\CALCURADORADEAREA.deps.json
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\bin\Debug\net8.0\CALCURADORADEAREA.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\bin\Debug\net8.0\CALCURADORADEAREA.dll
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\bin\Debug\net8.0\CALCURADORADEAREA.pdb
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\CALCURADORADEAREA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\CALCURADORADEAREA.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\CALCURADORADEAREA.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\CALCURADORADEAREA.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\CALCURADORADEAREA.dll
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\refint\CALCURADORADEAREA.dll
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\CALCURADORADEAREA.pdb
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\CALCURADORADEAREA.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\reto 3 funciones libertad\CALCURADORADEAREA\obj\Debug\net8.0\ref\CALCURADORADEAREA.dll
